@@ -1,0 +1,19 @@
+.searchBar {
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+.searchBar > input {
+    outline: transparent;
+    padding: 10px;
+    border: none;
+    height: 100%;
+    width: 100%;
+    margin-left: 10px;
+}
